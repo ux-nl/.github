@@ -1,9 +1,5 @@
-
-<h1 align="center"><a href="https://vormkracht10.nl"><img src="https://vormkracht10.nl/cdn/13f1e3fb-15c8-4655-bf9b-a85899694c45/-/quality/smart/-/resize/300x/vk10-github.png)" alt="Vormkracht10" width="200"></a></h1>
-<h4 align="center">Digital Agency from Nijmegen, The Netherlands</h4>
-
 ## About
-We are [Vormkracht10](https://vormkracht10.nl) and we craft high quality Laravel & Filament web apps.
+We are [UX](https://ux.nl) and we craft high quality Laravel & Filament web apps.
 
 Open Source packages:
 * [Laravel SEO Scanner](https://github.com/vormkracht10/laravel-seo-scanner)
@@ -13,10 +9,10 @@ Open Source packages:
 * And [much more...](https://github.com/orgs/vormkracht10/repositories)
 
 Wanna know more? Connect with us!
-* [Visit our website](https://vormkracht10.nl/)
-* [View our vacancies](https://vormkracht10.nl/vacatures)
-* [Instagram](https://www.instagram.com/vormkracht10/)
-* [Twitter](https://www.twitter.com/vormkracht10/)
-* [LinkedIn](https://linkedin.com/company/vormkracht10/)
+* [Visit our website](https://ux.nl)
+* [View our vacancies](https://ux.nl/vacatures)
+* [Instagram](https://www.instagram.com/ux__nl)
+* [Twitter](https://www.twitter.com/ux__nl)
+* [LinkedIn](https://linkedin.com/company/ux-nl)
 
 <img width="1134" alt="image" src="https://ucarecdn.com/0bea9921-f16b-4b4c-86ee-775630e5d119/-/scale_crop/1134x512/smart/-/format/auto/-/quality/smart/visual9.jpg">
